@@ -41,13 +41,13 @@ Tabela de conteúdos
 
 ## ⚙️ Funcionalidades
 
-- [x] Login.
-- [x] Cadastrar Cliente.
-- [X] Pesquisar Cliente.
-- [x] Cadastrar Chamado.
-- [X] Pesquisar Chamado.
-- [X] Créditos.
-- [X] Sair.   
+- :white_check_mark: Login.
+- :white_check_mark: Cadastrar Cliente.
+- :white_check_mark: Pesquisar Cliente.
+- :white_check_mark: Cadastrar Chamado.
+- :white_check_mark: Pesquisar Chamado.
+- :white_check_mark: Créditos.
+- :white_check_mark: Sair.   
 
 ---
 
@@ -94,7 +94,7 @@ $ git clone https://github.com/danielrodrigues-dv/Software-em-C.git
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes tecnologias foram usadas na construção do projeto:
 
 -   **[Linguagem C](https://www.w3schools.in/c-tutorial)** 
 -   **[Dev-C++](http://bloodshed.net)**
